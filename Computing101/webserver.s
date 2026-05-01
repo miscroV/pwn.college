@@ -3,7 +3,7 @@
 # A functioning basic HTTP Webserver writing in amd64 assembly. 
 # Only basic functionality implemented. 
 # EXTREMELY INSECURE. DO NOT RUN ON PUBLIC SERVERS.
-
+# code written in assembly. C psuedo code included for logic during writing. 
 .intel_syntax noprefix
 .global _start
 
